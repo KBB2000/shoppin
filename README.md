@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+⁡⁢⁣⁢𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝘂𝘀𝗶𝗻𝗴 𝗡𝗲𝘅𝘁𝗷𝘀 + 𝗥𝗲𝗮𝗰𝘁 𝘃𝗶𝘁𝗲 + 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁 + 𝘁𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗰𝘀𝘀
 
 First, run the development server:
 
